@@ -4,6 +4,9 @@ This app is a new React-based Google Books Search app. React components, work wi
 
 https://booksearch-google.herokuapp.com/
 
+![screenshot](reactbookssearch.png)
+![screenshot](reactbooksresults.png)
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
